@@ -81,9 +81,20 @@
                         var item = $event.target.closest('.acc-item');
                         var content = item.querySelectorAll('.acc-content')[0];
 
+                        // Handle one level of nesting 
+                        var parentContent = content.parentElement.closest('.acc-content');
+
                         if (content.style.maxHeight) {
+
+                            if (parentContent) {
+                                parentContent.style.maxHeight = (parentContent.scrollHeight - content.scrollHeight) + "px"
+                            }
                             content.style.maxHeight = null;
+
                         } else {
+                            if (parentContent) {
+                                parentContent.style.maxHeight = (parentContent.scrollHeight + content.scrollHeight) + "px"
+                            }
                             content.style.maxHeight = content.scrollHeight + "px";
                         }
                     }
