@@ -78,7 +78,9 @@
                     $scope.contentSelector = '.acc-content';
 
                     $scope.toggle = function (i, $event) {
-                        var content = $event.target.parentElement.querySelector('.acc-content');
+                        var item = $event.target.closest('.acc-item');
+                        var content = item.querySelectorAll('.acc-content')[0];
+
                         if (content.style.maxHeight) {
                             content.style.maxHeight = null;
                         } else {
@@ -88,13 +90,14 @@
                 },
                 link: function (scope, el, attrs) {
                     $timeout(function () {
+
                         var items = el[0].querySelectorAll(scope.itemSelector);
 
                         [].forEach.call(items, function (item, i) {
                             var title = item.querySelectorAll(scope.titleSelector)[0];
                             angular.element(title).attr('ng-click', 'toggle(' + i + ', $event)');
-                            $compile(angular.element(el).contents())(scope);
                         });
+                        $compile(angular.element(el).contents())(scope);
                     });
                 }
             }
