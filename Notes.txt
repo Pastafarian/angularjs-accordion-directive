@@ -1,0 +1,140 @@
+Structure
+
+
+	Introduction
+
+		Thankyou
+			Firstly, thanks for giving me the opportunity to apply for the new role.
+
+
+	Overview 
+
+		Why I'm applying for the role
+			Enthusiastic about expanding my role and skill set
+			Enjoy mentoring developers and passing on knowldge 						
+
+		Why I'm a good fit - qualified, experienced, passionate
+			3 Years experience of being a lead developer
+			Many years experience of TPR's systems and practises
+			Passionate about code and tech
+			Volunteering for technical interview
+
+
+	Priorities Challenges for your first 90 days in post 
+		First I would like to outline my plan for the first 90 days in post with SMART objectives before going into more detail on the priorities and opportunities presented by the new role.  
+		
+
+	90 Day Plan
+
+		30 days - Understand - process, people, procedure
+			Meeting with Technical Design Lead to go over how we can work togther to supply the technical skills and align our vision 
+			Meeting with IT Development Manager for handover of responsibilties.
+			Work with stake holders to setup formal and informal processes to provide information feedback between the Technical Design Lead, IT Development Manager and Lead .NET Developer with the information they require.
+			Setup team meeting and give presentation on my plans, respond to any questions. 
+			1-2-1's with all developers 2 weeks (allowing for holidays)
+			Objective setting with all developers 4 weeks (allowing for holidays)
+			Personal development - self learning around management theory/practice and familiarisation with process and procedure within TPR. 
+			Settle into new role
+
+
+		60 days - Evaluate  - asses and evaluate current processes	
+			Work with IT Test Manager and test team to review interteam communication, processes and practises with view to improvment. begiin gathering ideas.
+			Work with BA's and IT development team to identify any areas for improvement begin process of creating a plan. begiin gathering ideas.
+			Review objectives of the team and proactivly offer support, motivation and encouragement 
+			Gather feedback from the team regarding challanges they are experiencing and ideas they have for improvement 
+			Meeeting with IT Development Manager for feedback on role. 
+			Meeeting with Technical Design Lead to review work carried out in previous month to identify any skill gaps and how we can provide mentoring and training to address those. 
+
+		90 days - Optimise - initiate action plan, implement new strategies
+			Meeeting with Technical Design Lead and IT Development Manager to review previos findings, implement any enw plan and see if we've been effective
+			Meeting with BA team to review findings and formlise any plans and processes  
+			Meeting with Test team to review findings and formlise any plans and processes  
+			Objective setting with all developers. Review goals and objectives and create plans to tackle them not meeting them.
+			
+		
+
+	Empower develoeprs so they feel their ideas are listened too. 
+
+		Involve developers more with future plans and the reasons strategic decisions are being made. 
+		At the start of projects, be them maintance releases or green feild, ask developers if they have any ideas for work they think they should be carried out of tech used.
+		Provide resources latitude to allow developers to pick training once a year or get free travel to London for talks (skills matter)
+	
+	Mentoring 
+		Where practical put more slack into projects to allow developers to innovate
+		Encourage pair programming and working together to solve problems. Skills sharing. 
+ 		Carry out more detailed code reviews. Provide feedback on code structure and SOLID practises alongside general correctness. 
+
+	Testing
+		Steps to reproduce
+		Full screen shots
+		Missing PSR's on effected schemes in exchange release
+
+	Business Analysis
+		Reviewing specification documents to pick up issues and questions early
+		Working to create complete documention of new and existing systems (rather than just specs for bits of work, living spec)
+		
+
+	Documentation
+		Continue to add to our shared documentation 
+		Encourage developers to write up information learned when enhancing or fixing systems (Recovery plan process, Logging, SegSec SSIS)
+
+
+
+Priorities
+	Ensure there is no disruption to the team and they feel supported and that I am there to assist.
+	Improving the productivity of the team - pair programming, training budget, skills matter, 
+	Increasing motivation - feel part of something, acticuly contribute ideas, building bridges 
+	Working more closely with test team - process steps to repro etc
+	Allow space for invovation
+	Mentoring
+
+
+Challenges
+	Multi-tasking - splitting my role between dev and people management 
+	Improving estimates
+	Uncovering unclear requirements early
+	Improve visability
+	Improve morale
+	Increase feedback
+	Improve quality
+	Build in slack 
+
+ Mentoring. Formal meeetings and communications - email / meeting
+		Take any relevent pluralsight courses and read up on subject
+ 
+		
+SMART (specific, measureable, attainable, realistic, and time-bound) overview 
+	
+
+		
+	
+	
+ SMART acronym? Set goals that are specific, measureable, attainable, realistic, and time-bound
+
+
+https://www.themuse.com/advice/how-to-give-an-interview-presentation-thatll-convince-the-entire-room-youre-the-one
+https://medium.com/@Phebean/the-winning-interview-strategy-30-60-90-day-plan-91bfd068e11c
+
+
+
+	
+
+Testing
+Psychology
+Support - identify where we can make most effeciancies
+Agile / XP
+Entheusiasm
+
+
+
+Experience in previous role
+Volunteering for technical interview
+Recent course on agile management
+I genuine desire to expand my role and skill set
+Enjoy mentoring other developers and working with the team to improve the way we work together
+Ideas around pair programming and 
+
+Danial - helping but also trying to explain good coding practices
+Trying to implement best practices - reviewing appoaches and sharing results - logging
+
+IT Development Manager
